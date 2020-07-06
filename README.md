@@ -1,2 +1,3 @@
-# analytics-app-project
+# Аналитическое приложение для базы данных - Проектная работа
+
 Another college project. 
